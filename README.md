@@ -42,8 +42,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Daman Singh**, an IT professional with **2.6 years of experience** in analytics and BI. I work with tools like **Power BI**, **SQL**, **Excel**, and **Python**, and have delivered impactful dashboards and solutions in the **pharma domain (Pfizer)**.  
-I'm passionate about simplifying data for decision-making and also run a YouTube channel: **[GrindWithDammy](https://www.youtube.com/@GrindWithDammy)** to help others grow in the data field.
+Hi there! I'm **Daman Singh**, an IT professional with **2.6 years of experience** in analytics and BI. I work with tools like **Power BI**, **SQL**, **Excel**, and **Python**, and have delivered impactful dashboards and solutions in the **pharma domain for companies like (Pfizer)**.  
+
 
 ---
 
